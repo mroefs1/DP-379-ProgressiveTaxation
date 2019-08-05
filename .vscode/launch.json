@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProgressiveTaxation",
+            "request": "launch",
+            "mainClass": "ProgressiveTaxation"
+        }
+    ]
+}
